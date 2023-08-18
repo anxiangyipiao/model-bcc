@@ -1,0 +1,20 @@
+Fe          #type_a
+Cu          #type_b
+15          #ns_X
+15          #ns_Y
+15        #ns_Z
+10000000     #nstep
+1200        #tempk
+0.65        #Es_vFe
+0.56        #Es_vCu
+0.08        #de1_CuCu  0.644
+0.07        #de2_CuCu  0.322
+0.5          #de1_CuFe   -0.651
+0.0         #de2_CuFe   
+0.190          #de1_CuV
+0.190        #de2_CuV
+0.191         #de1_FeV
+0.095         #de2_FeV
+0.778         #de1_FeFe
+0.389         #de2_FeFe
+0.03        #partition
